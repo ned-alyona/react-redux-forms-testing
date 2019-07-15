@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render ButtonsToolbarComponent component create snapshot for ButtonsToolbarComponent 1`] = `
+Array [
+  <Button
+    active={false}
+    block={false}
+    bsClass="btn"
+    bsStyle="default"
+    className="button button--accent"
+    disabled={false}
+    onClick={[MockFunction]}
+    type="button"
+  >
+    Save Data
+  </Button>,
+  <Button
+    active={false}
+    block={false}
+    bsClass="btn"
+    bsStyle="default"
+    className="button button--secondary"
+    disabled={false}
+    onClick={[MockFunction]}
+    type="button"
+  >
+    Save & Next
+  </Button>,
+  <Button
+    active={false}
+    block={false}
+    bsClass="btn"
+    bsStyle="default"
+    className="button button--secondary"
+    disabled={false}
+    onClick={[MockFunction]}
+    type="button"
+  >
+    Next
+  </Button>,
+]
+`;
